@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "780647524983",
+    "firebase_url": "https://flash-chat-f5225.firebaseio.com",
+    "project_id": "flash-chat-f5225",
+    "storage_bucket": "flash-chat-f5225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780647524983:android:ee3579fd8002715e40b472",
+        "android_client_info": {
+          "package_name": "co.elhamraoui.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780647524983-d3e9ap1fjkfhgfr3gb9s68cmftrklh91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClgV7g29XE1xXDC1wgpzKWro1mfdIvQSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780647524983-d3e9ap1fjkfhgfr3gb9s68cmftrklh91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
